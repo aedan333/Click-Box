@@ -57,7 +57,15 @@ $(function(){
     });
 
     $(".button15").click(function(){
-    alert("The last button... So far")
+    alert("Good job!")
+    });
+
+    $(".button16").click(function(){
+    alert("Bad job!")
+    });
+
+    $(".button17").click(function(){
+    alert("You did ok")
     });
 
 });

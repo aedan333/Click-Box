@@ -68,6 +68,26 @@ $(function(){
     alert("You did ok")
     });
 
+    $(".button18").click(function(){
+    alert("Hmm")
+    });
+
+    $(".button19").click(function(){
+    alert("Electro cats")
+    });
+
+    $(".button20").click(function(){
+    alert("Html")
+    });
+
+    $(".button21").click(function(){
+    alert("I don't care")
+    });
+
+    $(".button22").click(function(){
+    alert("You got it right!")
+    });
+
 });
 
 

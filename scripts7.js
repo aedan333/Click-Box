@@ -88,6 +88,14 @@ $(function(){
     alert("You got it right!")
     });
 
+    $(".button23").click(function(){
+    alert("Meow")
+    });
+
+    $(".button24").click(function(){
+    alert("Not now")
+    });
+
 });
 
 
@@ -99,4 +107,9 @@ function checkKeyPressed(e) {
     if (e.keyCode == "65") {
         alert("The 'a' key is pressed.");
     }
+}
+
+function process(){
+    var color=document.getElementById("color").value;
+    document.body.style.backgroundColor=color;
 }

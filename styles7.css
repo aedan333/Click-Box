@@ -1,5 +1,26 @@
 body {
 	background: #00ffff;
+		margin: 0;
+}
+
+header {
+	background: #333;
+	padding: 2px 15px 0 15px;
+	color: blue;
+}
+
+header h1 {
+	margin: 0;
+	float: right;
+	display: inline;
+}
+
+.buttons {
+	margin: 0;
+}
+
+.title {
+	float: left;
 }
 
 .button {
@@ -155,6 +176,22 @@ body {
 	padding: 20px;
 	margin: 5px;
 }
+
+.button23 {
+	background: #00ffff;
+	border-color: black;
+	padding: 20px;
+	margin: 5px;
+}
+
+.button24 {
+	background: #00ffff;
+	border-color: black;
+	padding: 20px;
+	margin: 5px;
+}
+
+
 
 footer {
 	clear: both;

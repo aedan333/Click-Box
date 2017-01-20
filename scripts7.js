@@ -96,6 +96,30 @@ $(function(){
     alert("Not now")
     });
 
+    $(".button25").click(function(){
+    alert("Sticky")
+    });
+
+    $(".button26").click(function(){
+    alert("A rock?")
+    });
+
+    $(".button27").click(function(){
+    alert("Force")
+    });
+
+    $(".button28").click(function(){
+    alert("Gold?")
+    });
+
+    $(".button29").click(function(){
+    alert("Shiney?")
+    });
+
+    $(".button30").click(function(){
+    alert("Mass")
+    });
+
 });
 
 

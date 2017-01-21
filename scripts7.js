@@ -120,6 +120,22 @@ $(function(){
     alert("Mass")
     });
 
+    $(".button31").click(function(){
+    alert("Electron")
+    });
+
+    $(".button32").click(function(){
+    alert("Cars")
+    });
+
+    $(".button33").click(function(){
+    alert("Shiney cars")
+    });
+
+    $(".button34").click(function(){
+    alert("Loading")
+    });
+
 });
 
 

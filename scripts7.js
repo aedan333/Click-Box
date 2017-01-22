@@ -137,7 +137,15 @@ $(function(){
     });
 
     $(".button35").click(function(){
-    alert("Click Box v.1.6.2")
+    alert("Lions")
+    });
+
+    $(".button36").click(function(){
+    alert("RAM memory")
+    });
+
+    $(".button35-").click(function(){
+    alert("Click Box v.1.6.3")
     alert("Compatible with iOS and some android phones")
     alert("Download from the internet")
     alert("Click Box")

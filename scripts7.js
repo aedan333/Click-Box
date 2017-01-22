@@ -141,6 +141,8 @@ $(function(){
     alert("Compatible with iOS and some android phones")
     alert("Download from the internet")
     alert("Click Box")
+    alert("Tree Click Box Software")
+    alert("Made by Tree and Aedan")
     });
 
 });
@@ -163,5 +165,6 @@ function process(){
 
 
 
-if (false) {} else {alert("Click Box v.1.6")}
+if (false) {} else {alert("Click Box v.1.6.2")}
+
     

@@ -145,12 +145,12 @@ $(function(){
     });
 
     $(".button35-").click(function(){
-    alert("Click Box v.1.6.5")
+    alert("Click Box v1.6.6")
     alert("Compatible with iOS and some android phones")
     alert("Download from the internet")
     alert("Click Box")
     alert("Tree Click Box Software")
-    alert("Made by Tree and Aedan")
+    alert("Made by Tree, Aedan, and Kael")
     });
 
 });
@@ -173,6 +173,6 @@ function process(){
 
 
 
-if (false) {} else {alert("Click Box v.1.6.5")}
+if (false) {} else {alert("Click Box v1.6.6")}
 
     

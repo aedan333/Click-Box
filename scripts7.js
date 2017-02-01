@@ -145,7 +145,7 @@ $(function(){
     });
 
     $(".button35-").click(function(){
-    alert("Click Box v.1.6.4")
+    alert("Click Box v.1.6.5")
     alert("Compatible with iOS and some android phones")
     alert("Download from the internet")
     alert("Click Box")
@@ -173,6 +173,6 @@ function process(){
 
 
 
-if (false) {} else {alert("Click Box v.1.6.4")}
+if (false) {} else {alert("Click Box v.1.6.5")}
 
     
